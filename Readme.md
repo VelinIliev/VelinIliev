@@ -12,4 +12,5 @@
 <img src="./logos/Javascript_badge.svg" alt="JavaScript" width="40" height="40">
 <img src="./logos/sass-1.svg" alt="SASS" width="40" height="40">
 <img src="./logos/Github.svg" alt="GitHub" width="40" height="40">
+<img src="./logos/vscode.svg" alt="VSCode" width="40" height="40">
 </p>
