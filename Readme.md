@@ -6,3 +6,4 @@
 - **veliniliev@gmail.com**
 
 ## Languages and tools:
+![](./logos/HTML5_logo_and_wordmark.svg)
