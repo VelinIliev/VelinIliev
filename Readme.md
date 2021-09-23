@@ -6,4 +6,4 @@
 - **veliniliev@gmail.com**
 
 ## Languages and tools:
-![](./logos/HTML5_logo_and_wordmark.svg)
+<img src="./logos/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40">
