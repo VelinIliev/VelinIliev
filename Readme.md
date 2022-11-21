@@ -1,11 +1,16 @@
-# Hi, I'm Velin Iliev
+## Hi, I'm Velin Iliev
 - passionate full stack developer
 - experienced graphic designer
 
-## Connect with me: 
+### <u>Connect with me:</u>
 - **veliniliev@gmail.com**
 
-## Languages and tools:
+### <u>Courses:</u>
+- Certified Front-End Developer / 2020
+- Certified Front-End Developer Advanced / 2021
+- Currently, studying Python Web Developer at SoftUni
+
+### <u>Languages and tools:</u>
 <p>
 <img src="./logos/Python-logo-notext.svg" alt="Python" width="40" height="40">
 <img src="./logos/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40">
@@ -17,4 +22,4 @@
 </p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VelinIliev&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VelinIliev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
