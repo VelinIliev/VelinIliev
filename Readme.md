@@ -5,6 +5,8 @@
 ### <u>Connect with me:</u>
 - **veliniliev@gmail.com**
 
+<br>
+
 ### <u>Courses:</u>
 - Certified Front-End Developer / 2020
 - Certified Front-End Developer Advanced / 2021
