@@ -1,3 +1,5 @@
+<img src="./logos/header_github.png" alt="Python">
+
 ## Hi, I'm Velin Iliev
 - passionate full stack developer
 - experienced graphic designer
