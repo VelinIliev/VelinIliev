@@ -24,6 +24,6 @@
     <img src="./logos/PyCharm_Icon.svg" alt="Pycharm" width="40" height="40">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VelinIliev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VelinIliev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [see my progress]:https://github.com/VelinIliev/SoftUni-Python-Full-Stack-Developer-progress
