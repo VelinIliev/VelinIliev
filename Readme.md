@@ -1,4 +1,4 @@
-<img src="./logos/header_github.png" alt="Python">
+<img src="./logos/header_github.jpg" alt="Python">
 
 ## Hi, I'm Velin Iliev
 - passionate full stack developer
