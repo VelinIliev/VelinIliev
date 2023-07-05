@@ -16,6 +16,7 @@
 ### Languages and tools:
 <p>
     <img src="./logos/Python-logo-notext.svg" alt="Python" width="40" height="40">
+    <img src="./logos/django.svg" alt="Django" width="40" height="40">
     <img src="./logos/Javascript_badge.svg" alt="JavaScript" width="40" height="40">
     <img src="./logos/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40">
     <img src="./logos/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40">
