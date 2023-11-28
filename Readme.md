@@ -10,7 +10,7 @@
 
 ### Courses:
 - Currently, studying Python Full Stack Developer at SoftUni ... [see my progress]
-- Certified Python Web Developer at SoftUni [certificate Web]
+- Certified Python Web Developer at SoftUni / 2022-2023 [certificate Web]
 - Certified Front-End Developer Advanced / 2021
 - Certified Front-End Developer / 2020
 
