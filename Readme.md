@@ -9,7 +9,8 @@
 - **veliniliev@gmail.com**
 
 ### Courses:
-- Currently, studying Python Web Developer at SoftUni ... [see my progress]
+- Currently, studying Python Full Stack Developer at SoftUni ... [see my progress]
+- Certified Python Web Developer at SoftUni [certificate Web]
 - Certified Front-End Developer Advanced / 2021
 - Certified Front-End Developer / 2020
 
@@ -22,6 +23,7 @@
     <img src="./logos/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40">
     <img src="./logos/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40">
     <img src="./logos/sass-1.svg" alt="SASS" width="40" height="40">
+    <img src="./logos/Postgresql.svg" alt="PostgreSQL" width="40" height="40">
     <img src="./logos/mssql.svg" alt="MSSQL" width="40" height="40">
     <img src="./logos/vscode.svg" alt="VSCode" width="40" height="40">
     <img src="./logos/PyCharm_Icon.svg" alt="Pycharm" width="40" height="40">
@@ -37,3 +39,4 @@
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VelinIliev&layout=compact&text_color=FFFFFF&bg_color=09131B&hide_border=true" />
 
 [see my progress]:https://github.com/VelinIliev/SoftUni-Python-Full-Stack-Developer-progress
+[certificate Web]: https://softuni.bg/certificates/details/191128/8aab45c5
