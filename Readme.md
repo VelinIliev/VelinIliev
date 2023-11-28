@@ -10,7 +10,7 @@
 
 ### Courses:
 - Currently, studying Python Full Stack Developer at SoftUni ... [see my progress]
-- Certified Python Web Developer at SoftUni / 2022-2023 [certificate Web]
+- Certified Python Web Developer at SoftUni / 2022-2023 ([certificate Web Developer])
 - Certified Front-End Developer Advanced / 2021
 - Certified Front-End Developer / 2020
 
@@ -39,4 +39,4 @@
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VelinIliev&layout=compact&text_color=FFFFFF&bg_color=09131B&hide_border=true" />
 
 [see my progress]:https://github.com/VelinIliev/SoftUni-Python-Full-Stack-Developer-progress
-[certificate Web]: https://softuni.bg/certificates/details/191128/8aab45c5
+[certificate Web Developer]: https://softuni.bg/certificates/details/191128/8aab45c5
