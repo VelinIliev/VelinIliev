@@ -26,6 +26,7 @@
     <img src="./logos/django.svg" alt="Django" width="40" height="40">
     <img src="./logos/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40">
     <img src="./logos/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40">
+    <img src="./logos/bootstrap.svg" alt="Bootstrap" width="40" height="40">
     <img src="./logos/Postgresql.svg" alt="PostgreSQL" width="40" height="40">
     <img src="./logos/mssql.svg" alt="MSSQL" width="40" height="40">
     <img src="./logos/PyCharm_Icon.svg" alt="Pycharm" width="40" height="40">
