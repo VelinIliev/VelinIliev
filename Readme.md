@@ -19,13 +19,12 @@
 
 ### Technologies:
 <p>
-    <img src="./logos/Python-logo-notext.svg" alt="Python" width="15" height="15">
+    <img src="./logos/Python-logo-notext.svg" alt="Python" width="17" height="17">
     <span>Python</span> | 
     <img src="./logos/Javascript_badge.svg" alt="JavaScript" width="15" height="15">
     <span>JavaScript</span> |
-    <img src="./logos/vuejs.svg" alt="VueJS" width="15" height="15">
+    <img src="./logos/vuejs.svg" alt="VueJs" width="10" height="15">
     <span>VueJS</span> |
-    <img src="./logos/fastapi.svg" alt="FastAPI" width="15" height="15">
     <span>FastAPI</span> |
     <img src="./logos/django.svg" alt="Django" width="15" height="15">
     <span>Django</span> |
@@ -41,9 +40,9 @@
     <span>Photoshop</span> |
     <img src="./logos/illustrator.svg" alt="Illustrator" width="15" height="15">
     <span>Illustrator</span> |
-    <img src="./logos/premiere.svg" alt="Premiere" width="15" height="15">
+    <img src="./logos/premiere.svg" alt="Premiere" width="20" height="20">
     <span>Premiere</span> |
-    <img src="./logos/afterEffects.svg" alt="AfterEffects" width="15" height="15">
+    <img src="./logos/afterEffects.svg" alt="AfterEffects" width="20" height="20">
     <span>AfterEffects</span> |
 </p>
 
