@@ -37,7 +37,7 @@
     <span> Visual Studio Code |</span> 
     <span> Rider |</span> 
     <span> Postman |</span>
-    <span> Notion | </span>
+    <span> Notion </span>
 </p>
 
 #### Design:
