@@ -17,7 +17,7 @@
 - Certified Front-End Developer Advanced / 2021
 - Certified Front-End Developer / 2020
 
-### Technologies:
+#### Technologies:
 <p>
     <span>Python</span> | 
     <span>JavaScript</span> |
@@ -27,8 +27,22 @@
     <span>Bootstrap</span> |
     <span>PostgreSQL</span> |
     <span>MS SQL</span> |
-    <span>Git Version Control</span>
+    
 </p>
+
+#### Tools:
+<p>
+    <span>Git Version Control |</span> 
+    <span> PyCharm |</span> 
+    <span> Visual Studio Code |</span> 
+    <span> Visual Studio |</span> 
+    <span> Rider |</span> 
+    <span> Postman |</span>
+    <span> Notion | </span>
+    <span> Jira </span>
+</p>
+
+#### Design:
 <p>
     <span>Photoshop</span> |
     <span>Illustrator</span> |
