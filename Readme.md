@@ -35,11 +35,9 @@
     <span>Git Version Control |</span> 
     <span> PyCharm |</span> 
     <span> Visual Studio Code |</span> 
-    <span> Visual Studio |</span> 
     <span> Rider |</span> 
     <span> Postman |</span>
     <span> Notion | </span>
-    <span> Jira </span>
 </p>
 
 #### Design:
