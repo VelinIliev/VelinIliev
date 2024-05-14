@@ -1,10 +1,10 @@
-<img src="./logos/github-newheader2.png" alt="Python">
+[//]: # (<img src="./logos/github-newheader2.png" alt="Python">)
 
 ## Hi, I'm Velin Iliev
 
-- passionate full stack developer
-- experienced graphic designer
-- I'm looking to collaborate on any Open Source Project
+- Passionate full stack developer.
+- Experienced graphic designer.
+- I'm looking to collaborate on any Open Source Project.
 
 ### Connect with me:
 
@@ -12,32 +12,39 @@
 
 ### Courses:
 
-- Currently, studying Python Full Stack Developer at SoftUni ... [see my progress]
+[//]: # (- Currently, studying Python Full Stack Developer at SoftUni ... [see my progress])
 - Certified Python Web Developer at SoftUni / 2022-2023 ([certificate Web Developer])
 - Certified Front-End Developer Advanced / 2021
 - Certified Front-End Developer / 2020
 
-### Languages:
+### Technologies:
 <p>
-    <img src="./logos/Python-logo-notext.svg" alt="Python" width="40" height="40">
-    <img src="./logos/Javascript_badge.svg" alt="JavaScript" width="40" height="40">
-    <img src="./logos/vuejs.svg" alt="VueJS" width="40" height="40">
-    <img src="./logos/fastapi.svg" alt="FastAPI" width="40" height="40">
-    <img src="./logos/django.svg" alt="Django" width="40" height="40">
-    <img src="./logos/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40">
-    <img src="./logos/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40">
-    <img src="./logos/bootstrap.svg" alt="Bootstrap" width="40" height="40">
-    <img src="./logos/Postgresql.svg" alt="PostgreSQL" width="40" height="40">
-    <img src="./logos/mssql.svg" alt="MSSQL" width="40" height="40">
-    <img src="./logos/PyCharm_Icon.svg" alt="Pycharm" width="40" height="40">
-    <img src="./logos/vscode.svg" alt="VSCode" width="40" height="40">
-    <img src="./logos/postman.svg" alt="Postman" width="40" height="40">
-    <img src="./logos/Github.svg" alt="GitHub" width="40" height="40">
-    <img src="./logos/git.svg" alt="Git Version Control" width="40" height="40">
-    <img src="./logos/photoshop.svg" alt="Photoshop" width="40" height="40">
-    <img src="./logos/illustrator.svg" alt="Illustrator" width="40" height="40">
-    <img src="./logos/premiere.svg" alt="Premiere" width="40" height="40">
-    <img src="./logos/afterEffects.svg" alt="AfterEffects" width="40" height="40">
+    <img src="./logos/Python-logo-notext.svg" alt="Python" width="15" height="15">
+    <span>Python</span> | 
+    <img src="./logos/Javascript_badge.svg" alt="JavaScript" width="15" height="15">
+    <span>JavaScript</span> |
+    <img src="./logos/vuejs.svg" alt="VueJS" width="15" height="15">
+    <span>VueJS</span> |
+    <img src="./logos/fastapi.svg" alt="FastAPI" width="15" height="15">
+    <span>FastAPI</span> |
+    <img src="./logos/django.svg" alt="Django" width="15" height="15">
+    <span>Django</span> |
+    <img src="./logos/bootstrap.svg" alt="Bootstrap" width="15" height="15">
+    <span>Bootstrap</span> |
+    <img src="./logos/Postgresql.svg" alt="PostgreSQL" width="15" height="15">
+    <span>PostgreSQL</span> |
+    <img src="./logos/mssql.svg" alt="MSSQL" width="15" height="15">
+    <span>MS SQL</span> |
+    <img src="./logos/git.svg" alt="Git Version Control" width="15" height="15">
+    <span>Git Version Control</span> |
+    <img src="./logos/photoshop.svg" alt="Photoshop" width="15" height="15">
+    <span>Photoshop</span> |
+    <img src="./logos/illustrator.svg" alt="Illustrator" width="15" height="15">
+    <span>Illustrator</span> |
+    <img src="./logos/premiere.svg" alt="Premiere" width="15" height="15">
+    <span>Premiere</span> |
+    <img src="./logos/afterEffects.svg" alt="AfterEffects" width="15" height="15">
+    <span>AfterEffects</span> |
 </p>
 
 <hr>

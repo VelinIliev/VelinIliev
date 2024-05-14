@@ -1,18 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#41B883;}
-	.st1{fill:#34495E;}
-</style>
-<path d="M36.2,40H3.8C1.7,40,0,38.3,0,36.2V3.8C0,1.7,1.7,0,3.8,0h32.4C38.3,0,40,1.7,40,3.8v32.4C40,38.3,38.3,40,36.2,40z"/>
-<g transform="matrix(1.3333 0 0 -1.3333 -76.311 313.34)">
-	<g transform="translate(178.06 235.01)">
-		<path class="st0" d="M-102.6-2.7l-3.3-5.7l-3.3,5.7H-120l14.1-24.5l14.1,24.5H-102.6z"/>
-	</g>
-	<g transform="translate(178.06 235.01)">
-		<path class="st1" d="M-102.6-2.7l-3.3-5.7l-3.3,5.7h-5.2l8.5-14.7l8.5,14.7H-102.6z"/>
-	</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #101010;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M36.2,40H3.8c-2.1,0-3.8-1.7-3.8-3.8V3.8C0,1.7,1.7,0,3.8,0h32.4c2.1,0,3.8,1.7,3.8,3.8v32.4c0,2.1-1.7,3.8-3.8,3.8Z"/>
+  <path class="cls-2" d="M24.3,3.6l-4.4,7.6-4.4-7.6H1.1l18.8,32.7L38.7,3.6s-14.4,0-14.4,0Z"/>
+  <path class="cls-3" d="M24.3,3.6l-4.4,7.6-4.4-7.6h-6.9l11.3,19.6L31.2,3.6s-6.9,0-6.9,0Z"/>
 </svg>
