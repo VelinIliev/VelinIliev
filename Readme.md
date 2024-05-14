@@ -26,7 +26,7 @@
     <span>Django</span> |
     <span>Bootstrap</span> |
     <span>PostgreSQL</span> |
-    <span>MS SQL</span> |
+    <span>MS SQL</span>
     
 </p>
 
