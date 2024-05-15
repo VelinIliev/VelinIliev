@@ -36,7 +36,7 @@
     <span> Rider |</span> 
     <span> Visual Studio |</span>
     <span> Postman |</span>
-    <span> Notion |</span>
+    <span> Notion </span>
 </p>
 
 ### Design:
@@ -45,7 +45,7 @@
     <span>Photoshop</span> |
     <span>Illustrator</span> |
     <span>Premiere</span> |
-    <span>AfterEffects</span> |
+    <span>AfterEffects</span> 
 </p>
 
 [//]: # (<hr>)
