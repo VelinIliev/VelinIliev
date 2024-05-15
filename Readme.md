@@ -1,7 +1,6 @@
 [//]: # (<img src="./logos/github-newheader2.png" alt="Python">)
 
 ## Hi, I'm Velin Iliev
-<hr>
 
 - Passionate full stack developer
 - Experienced graphic designer
