@@ -46,7 +46,6 @@
     <span>Illustrator</span> |
     <span>Premiere</span> |
     <span>AfterEffects</span> |
-    <span>Figma</span>
 </p>
 
 [//]: # (<hr>)
