@@ -35,6 +35,7 @@
     <span> Rider |</span> 
     <span> Visual Studio Code |</span>
     <span> Postman |</span>
+    <span> Jira |</span>
     <span> Notion </span>
 </p>
 
@@ -44,7 +45,9 @@
     <span>Photoshop</span> |
     <span>Illustrator</span> |
     <span>Premiere</span> |
-    <span>AfterEffects</span> 
+    <span>AfterEffects</span> |
+    <span>InDesign</span> |
+    <span>Figma</span> 
 </p>
 
 [//]: # (<hr>)
