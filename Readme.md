@@ -44,11 +44,14 @@
     <span>Figma</span> 
 </p>
 
-### Courses:
+[//]: # (### Courses:)
 
-- Certified Python Web Developer at SoftUni / 2022-2024 ([certificate])
-- Certified Front-End Developer Advanced / 2021
-- Certified Front-End Developer / 2020
+[//]: # ()
+[//]: # (- Certified Python Web Developer at SoftUni / 2022-2024 &#40;[certificate]&#41;)
+
+[//]: # (- Certified Front-End Developer Advanced / 2021)
+
+[//]: # (- Certified Front-End Developer / 2020)
 
 [//]: # (<hr>)
 
